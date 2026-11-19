@@ -1,6 +1,8 @@
 __pycache__/
 *.py[cod]
 *.exe
+!releases/
+!releases/*.exe
 *.zip
 *.log
 .env
